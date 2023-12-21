@@ -1,23 +1,24 @@
-## Hey 👋, I'm Shubham Shrivastava  
-  
+<h1>Hey there! 👋 I'm Shubham Shrivastava</h1>
 
 <a href="https://dev.to/surajvast" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/shubham-shrivastava-67626b233/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
-  
 
+<p style="font-size: 18px;">Glad to have you here! 🚀</p>
 
+<p style="font-size: 20px;">
+  I'm Shubham Shrivastava, a passionate Full Stack Developer and Android/Flutter enthusiast from India. I find joy in transforming ideas into tangible solutions through the magic of code. 🚀🚀🤓
+</p>
 
-### Glad to see you here!  
-🚀 A passionate Full Stack Developer and Android/Flutter enthusiast from India, I am driven by the excitement of transforming ideas into tangible solutions through the magic of code.🚀🚀🤓
+<p style="font-size: 18px;">
+  My journey in software development has honed my skills across a diverse spectrum of technologies. This empowers me to make meaningful contributions to both the backend and frontend facets of projects. Ready to take on new challenges, I'm enthusiastic about contributing to open-source initiatives and collaborating with like-minded individuals. Let's create something amazing together! 🌐💻😎
+</p>
 
-💻💻 My journey in software development has honed my skills across a diverse spectrum of technologies, empowering me to make meaningful contributions to both the backend and frontend facets of projects. Ready to embark on new challenges, I am enthusiastic about contributing to open-source initiatives and collaborating with like-minded individuals. Let's create something amazing together! 🌐💻😎  
-  
+<br/>
 
-<br/>  
 
 
 
