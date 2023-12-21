@@ -9,11 +9,11 @@
 
 <p style="font-size: 18px;">Glad to have you here! 🚀</p>
 
-<p style="font-size: 20px;">
+<p style="font-size: 30px;">
   I'm Shubham Shrivastava, a passionate Full Stack Developer and Android/Flutter enthusiast from India. I find joy in transforming ideas into tangible solutions through the magic of code. 🚀🚀🤓
 </p>
 
-<p style="font-size: 18px;">
+<p style="font-size: 25px;">
   My journey in software development has honed my skills across a diverse spectrum of technologies. This empowers me to make meaningful contributions to both the backend and frontend facets of projects. Ready to take on new challenges, I'm enthusiastic about contributing to open-source initiatives and collaborating with like-minded individuals. Let's create something amazing together! 🌐💻😎
 </p>
 
