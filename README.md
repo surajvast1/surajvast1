@@ -70,12 +70,20 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajvast1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center">
+  <a href="https://github.com/surajvast1">
+    <img src="https://github-readme-stats.vercel.app/api?username=surajvast1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  </a>
+  <a href="https://github.com/surajvast1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajvast1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </a>
+</div>
 
 
-</td></tr></table>  
+
+
+
 
 <br/>  
 
